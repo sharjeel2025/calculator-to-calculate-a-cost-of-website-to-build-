@@ -4,7 +4,7 @@ A free, interactive tool that helps businesses, freelancers, and entrepreneurs e
 
 **Live tool:** [https://devgurux.com/our-tools/website-cost-calculator/](https://devgurux.com/our-tools/website-cost-calculator/)
 
-![Website Cost Calculator screenshot](https://devgurux.com/wp-content/uploads/2025/09/website-cost-calculator-preview.png)
+  ![Website Cost Calculator screenshot](https://devgurux.com/wp-content/uploads/2026/02/website-cost-calculator.jpg)
 
 ## Overview
 
@@ -97,31 +97,3 @@ Freelance Rate Calculator
 Business Health Checker
 
 Made with ❤️ by Sharjeel – DevGuruX
-
-text
-
----
-
-## 📁 Suggested Files to Include in the Repository
-
-- `index.html` – the actual calculator page (you can either copy the live page’s source or create a standalone version)
-- `style.css` – all the styling (if separated)
-- `script.js` – the calculation logic
-- `README.md` – the above content
-- `LICENSE` – MIT license (optional but recommended)
-- `screenshot.png` – a screenshot of the calculator interface
-
-If you want to keep the repository minimal, just the README is enough – but including the actual code makes it more valuable to visitors and gives you more credibility.
-
----
-
-## 🚀 Next Steps
-
-1. Create a new repository on GitHub named **`website-cost-calculator`**.
-2. Add the README above (copy and paste).
-3. Optionally, upload the tool’s HTML/CSS/JS files (you can copy the source from your live page).
-4. Add a screenshot to the repo (name it `screenshot.png` and update the markdown link if needed).
-5. Set the **website** field in the repo settings to `https://devgurux.com/our-tools/website-cost-calculator/`.
-6. Add topics: `website-cost-calculator`, `web-development`, `freelance-tools`, `price-calculator`, `javascript`.
-
-This repository will serve as both a backlink to your tool and a demonstration of your skills to potential clients.
