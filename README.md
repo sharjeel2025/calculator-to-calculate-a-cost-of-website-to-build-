@@ -1,99 +1,39 @@
 # Website Cost Calculator
 
-A free, interactive tool that helps businesses, freelancers, and entrepreneurs estimate the real cost of building a website. Get instant, itemized pricing based on your project needs.
+A simple, interactive tool that gives business owners an instant, itemized estimate for their website project. No sign‑up, no hidden fees – just honest pricing based on real‑world development.
 
-**Live tool:** [https://devgurux.com/our-tools/website-cost-calculator/](https://devgurux.com/our-tools/website-cost-calculator/)
+[**Try the Live Tool →**](https://devgurux.com/our-tools/website-cost-calculator/)
 
-  ![Website Cost Calculator screenshot](https://devgurux.com/wp-content/uploads/2026/02/website-cost-calculator.jpg)
+![Screenshot of the Website Cost Calculator](https://devgurux.com/wp-content/uploads/2025/09/website-cost-calculator-preview.png)
 
-## Overview
+---
 
-The **Website Cost Calculator** takes the guesswork out of web project budgeting. Instead of vague ranges, it lets you:
+## Why I Built This
 
-- Choose your website type (business, eCommerce, portfolio, blog)
-- Set number of pages
-- Pick design level (template, premium, custom)
-- Select features (contact forms, SEO, booking systems, etc.)
-- See a real‑time, itemized estimate + timeline
+I’ve been a freelance web developer for years, and one question kept coming up:  
+*“How much will my website cost?”*
 
-The calculator is built with HTML, CSS, and JavaScript, runs entirely in the browser, and is free to use. It’s used by thousands of business owners, freelancers, and agencies to plan their budgets before approaching developers.
+The answer is never simple – it depends on the type of site, number of pages, design level, features, and more. Clients often receive vague quotes or get surprised by hidden costs. So I built this calculator to turn those variables into a clear, itemized estimate. It helps clients understand what they’re paying for and gives them a realistic starting point.
 
-## Features
+---
 
-- **Real‑time calculation** – every selection updates the price instantly.
-- **Itemized breakdown** – base cost + add‑ons total + final price.
-- **Project timeline estimate** – see how long each phase (design, development, testing) might take.
-- **Mobile‑friendly** – works on desktop, tablet, and phone.
-- **Built‑in discount** – shows special DevGuruX pricing with savings.
-- **Get a quote** – one‑click form to request a formal proposal.
+## What It Does
 
-## How to Use
+- **Choose website type** – Business, eCommerce, Portfolio, Blog.
+- **Select number of pages** – from 1 to 50+.
+- **Pick design level** – template, premium template, or custom design.
+- **Add features** – contact form, blog system, SEO, booking system, etc.
+- **See instant total** – base cost + add‑ons.
+- **Estimated timeline** – planning, development, testing.
 
-1. **Open the calculator** – [click here](https://devgurux.com/our-tools/website-cost-calculator/).
-2. **Select your website type** – e.g., Business Website, eCommerce Store.
-3. **Set the number of pages** – choose from 1 to 50+.
-4. **Pick design requirements** – template, premium template, or custom.
-5. **Add features** – tick the boxes for contact forms, SEO, booking systems, etc.
-6. **Review your estimate** – the total updates automatically.
-7. **Copy or share** – use the “Copy Estimate” button to save the results, or click “Get a Quote” to receive a formal proposal from DevGuruX.
+It’s built with pure HTML, CSS, and JavaScript – no backend, no database. Everything runs locally in the browser.
 
-## Example Walkthrough
+---
 
-**A local coffee shop** wants a simple business website:
+## How to Use (for Developers)
 
-- Website Type: Business Website
-- Pages: 6 (Home, Menu, About, Contact, Gallery, Blog)
-- Design: Premium Template
-- Features: Contact Form, Basic Booking, SEO Starter, Analytics Setup, Social Media Integration
+If you want to run a local copy or adapt it for your own site:
 
-**Result:**
-- Base Website Cost: $855
-- Add‑ons Total: $1,500
-- **Total Estimate: ~$2,355**
-- Timeline: 4–6 weeks
-
-This estimate gives the owner a realistic budget to compare against DIY builders, freelancers, or agencies.
-
-## Why Open Source?
-
-I built this tool for my own freelance business (DevGuruX) to make pricing transparent. By sharing it publicly, I hope it helps others:
-
-- Understand what goes into website costs
-- Plan their projects with confidence
-- Avoid scope creep and hidden fees
-
-If you find it useful, please ⭐ star this repository!
-
-## Tech Stack
-
-- **HTML5** – structure
-- **CSS3** – styling (responsive layout, modern UI)
-- **JavaScript** – dynamic calculations, real‑time updates
-- **No frameworks** – pure vanilla JS for speed and simplicity
-
-## Local Development
-
-To run the calculator locally:
-
-```bash
-git clone https://github.com/sharjeel2025/website-cost-calculator.git
-cd website-cost-calculator
-open index.html
-No build step required – it’s a static page.
-
-Contribute
-Found a bug? Have an idea for a new feature? Feel free to open an issue or submit a pull request.
-
-License
-MIT © Sharjeel Amir
-
-🔗 Related Projects
-Google Ads Cost Calculator
-
-Revenue & ROI Calculator
-
-Freelance Rate Calculator
-
-Business Health Checker
-
-Made with ❤️ by Sharjeel – DevGuruX
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/sharjeel2025/website-cost-calculator.git
