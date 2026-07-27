@@ -1,98 +1,52 @@
 # Website Cost Calculator
 
-A simple, interactive tool that gives business owners an instant, itemized estimate for their website project. No sign‑up, no hidden fees – just honest pricing based on real‑world development.
+**A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
 
-[**Try the Live Tool →**](https://devgurux.com/our-tools/website-cost-calculator/)
+[![Live Tool](https://img.shields.io/badge/🌐-Try%20the%20Calculator-brightgreen?style=for-the-badge)](https://devgurux.com/our-tools/website-cost-calculator/)
+[![GitHub stars](https://img.shields.io/github/stars/sharjeel2025/website-cost-calculator?style=social)](https://github.com/sharjeel2025/website-cost-calculator/stargazers)
+
+Get an instant, realistic estimate for your next website project — whether you're a small business owner, a freelancer quoting a client, or a developer planning a build.
 
 ![Screenshot of the Website Cost Calculator](https://devgurux.com/wp-content/uploads/2026/02/website-cost-calculator.jpg)
 
 ---
 
-## Why I Built This
+## The Problem It Solves
 
-I’ve been a freelance web developer for years, and one question kept coming up:  
-*“How much will my website cost?”*
+For years, I’ve worked with small business owners who walk into a web project with one burning question: *“What is this actually going to cost me?”*
 
-The answer is never simple – it depends on the type of site, number of pages, design level, features, and more. Clients often receive vague quotes or get surprised by hidden costs. So I built this calculator to turn those variables into a clear, itemized estimate. It helps clients understand what they’re paying for and gives them a realistic starting point.
+The answers they get are all over the map — anywhere from $500 to $50,000 for what looks like the same thing. Clients get vague quotes, hidden fees appear mid‑project, and no one can explain why the price changed.
+
+I built this calculator to fix that. It turns the messy variables of a website project — type, size, design, features — into a clear, line‑by‑line estimate. No sign‑up. No sales pitch. Just honest numbers based on real‑world development.
 
 ---
 
 ## What It Does
 
-- **Choose website type** – Business, eCommerce, Portfolio, Blog.
-- **Select number of pages** – from 1 to 50+.
-- **Pick design level** – template, premium template, or custom design.
-- **Add features** – contact form, blog system, SEO, booking system, etc.
-- **See instant total** – base cost + add‑ons.
-- **Estimated timeline** – planning, development, testing.
+| Feature | How It Works |
+|---------|--------------|
+| **Website type** | Choose from Business, eCommerce, Portfolio, or Blog |
+| **Pages** | Select from 1 to 50+ pages |
+| **Design level** | Template, premium template, or fully custom design |
+| **Add‑ons** | Contact forms, blog systems, SEO, booking systems, and more |
+| **Instant total** | Base cost + add‑ons update in real time |
+| **Timeline estimate** | Planning, development, and testing phases |
 
-It’s built with pure HTML, CSS, and JavaScript – no backend, no database. Everything runs locally in the browser.
-
----
-
-## How to Use (for Developers)
-
-If you want to run a local copy or adapt it for your own site:
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/sharjeel2025/website-cost-calculator.git
-   Open index.html in your browser – it works straight away.
-
-No build steps, no dependencies. The calculator logic is in a single file, so you can easily tweak the prices or add new features.
-
-Related Projects
-I build free tools to help creators and business owners. Here are a few you might find useful:
-
-Ghostern Gaming Text Tools – Font generators for Dark Souls, Elden Ring, Pixel Art, and more.
-
-Image Color Inverter – Instant negative effect in your browser (privacy‑friendly).
-
-Art Resources – Curated wallpapers and coloring pages.
-
-Freelance Rate Calculator – Another tool I built to help freelancers price their work confidently.
-
-All are free and open source. Feel free to explore, use, or contribute.
-
-Technology Stack
-HTML5
-
-CSS3 (Flexbox/Grid)
-
-Vanilla JavaScript
-
-No external libraries – keeps it lightweight
-
-Preview
-https://devgurux.com/wp-content/uploads/2025/09/cost-calculator-preview.png
-
-License
-MIT © Sharjeel Amir
-
-Made with ❤️ for the freelance community.
-
-text
+Everything runs client‑side — pure HTML, CSS, and JavaScript. No backend, no database, no data collection.
 
 ---
 
-## 📌 How to Set Up the Repository
+## How to Use It
 
-1. **Create a new repository** on GitHub named `website-cost-calculator`.
-2. **Make it public** and initialize with a README (you can replace the default with the above).
-3. **Upload the tool files** – the actual HTML/CSS/JS code from your live tool.  
-   *If the code is already embedded in your site, you can copy it into an `index.html` file.*
-4. **Add a screenshot** of the tool interface to the repo (use the preview image URL from your site, or upload a local image).
-5. **Set the repository topics** to: `website-cost-calculator`, `freelance-tools`, `javascript`, `web-development`, `business-tools`.
-6. **Link your other repositories** in the “Related Projects” section – this creates a natural network of backlinks and authority.
+### For Business Owners
+1. Go to the **[live tool](https://devgurux.com/our-tools/website-cost-calculator/)**
+2. Select your website type and page count
+3. Choose a design level
+4. Add the features you need
+5. See your instant, itemized estimate
 
----
-
-## ✨ Why This Works for Backlinks & Authority
-
-- **Original, value‑driven content** – the README explains the *why* behind the tool, not just the *what*.
-- **Cross‑links to your other projects** – each link passes authority and helps search engines understand your niche.
-- **Live tool link** – included naturally in the first line; it’s a dofollow link from a GitHub.io page (if you host the tool there) or a direct link to your site.
-- **Clear licensing** – MIT shows openness and builds trust.
-
-Once the repository is live, you can also add it to your GitHub profile’s pinned repositories for extra visibility.
-
+### For Developers (Local Setup)
+```bash
+git clone https://github.com/sharjeel2025/website-cost-calculator.git
+cd website-cost-calculator
+open index.html
