@@ -3,7 +3,9 @@
 **A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
 
 [![Live Tool](https://img.shields.io/badge/🌐-Try%20the%20Calculator-brightgreen?style=for-the-badge)](https://devgurux.com/our-tools/website-cost-calculator/)
-[![GitHub stars](https://img.shields.io/github/stars/sharjeel2025/website-cost-calculator?style=social)](https://github.com/sharjeel2025/website-cost-calculator/stargazers)
+[![GitHub stars](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-   )](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
+
+
 
 Get an instant, realistic estimate for your next website project — whether you're a small business owner, a freelancer quoting a client, or a developer planning a build.
 
