@@ -1,7 +1,3 @@
-I've updated the README to include a new **Related Projects** section with a link to the `devgurux-portfolio` repository. The rest of the structure remains clean, with only two primary links to devgurux.com (the live calculator and the GitHub repo) as requested, plus the new related project link.
-
----
-
 # Website Cost Calculator
 
 **A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
