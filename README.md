@@ -2,10 +2,11 @@
 
 **A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Live Tool](https://img.shields.io/badge/🌐-Try%20the%20Calculator-brightgreen?style=for-the-badge)](https://devgurux.com/our-tools/website-cost-calculator/)
-[![GitHub stars](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-   )](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
+[![GitHub stars](https://img.shields.io/github/stars/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-?style=social)](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
 
-
+---
 
 Get an instant, realistic estimate for your next website project — whether you're a small business owner, a freelancer quoting a client, or a developer planning a build.
 
@@ -34,21 +35,84 @@ I built this calculator to fix that. It turns the messy variables of a website p
 | **Instant total** | Base cost + add‑ons update in real time |
 | **Timeline estimate** | Planning, development, and testing phases |
 
-Everything runs client‑side — pure HTML, CSS, and JavaScript. No backend, no database, no data collection.
+Everything runs **client‑side** — pure HTML, CSS, and JavaScript. No backend, no database, no data collection.
 
 ---
 
-## How to Use It
+## 🚀 How to Use It
 
-### For Business Owners
-1. Go to the **[live tool](https://devgurux.com/our-tools/website-cost-calculator/)**
+### For Business Owners (Live Tool)
+
+1. Go to the **[live calculator](https://devgurux.com/our-tools/website-cost-calculator/)**
 2. Select your website type and page count
 3. Choose a design level
 4. Add the features you need
 5. See your instant, itemized estimate
 
 ### For Developers (Local Setup)
+
 ```bash
-git clone https://github.com/sharjeel2025/website-cost-calculator.git
-cd website-cost-calculator
+git clone https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-.git
+cd calculator-to-calculate-a-cost-of-website-to-build-
 open index.html
+```
+
+*No server required – just double‑click `index.html` to run it in your browser.*
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5, CSS3, Vanilla JavaScript | Core interface & logic |
+| DOM manipulation | Real‑time cost updates |
+| CSS Grid & Flexbox | Responsive layout |
+| Chrome DevTools | Performance optimisation |
+
+---
+
+## 📁 Repository Structure
+
+```
+website-cost-calculator/
+├── index.html          # Main calculator interface
+├── style.css           # Styling and responsive design
+├── script.js           # Core calculation logic
+└── README.md           # Project documentation
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+- **Report bugs** – Open an [issue](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-/issues) with steps to reproduce.
+- **Suggest features** – Open an issue with a clear description.
+- **Submit code** – Fork the repo, make your changes, and open a pull request.
+
+**Code style**  
+- Vanilla JavaScript only (no frameworks).  
+- Use `const` and `let` (no `var`).  
+- Comment complex logic.  
+- Follow the existing code style.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🔗 Links
+
+- [🌐 Live Calculator – devgurux.com](https://devgurux.com/our-tools/website-cost-calculator/)
+- [📂 GitHub Repository](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
+- [📝 About the Project](https://devgurux.com/about/)
+
+---
+
+Built with ❤️ by the [devgurux](https://devgurux.com) team.  
+*Free forever · No sign‑up · No hidden fees*
