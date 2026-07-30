@@ -1,63 +1,63 @@
-# Website Cost Calculator
+# devgurux Portfolio
 
-**A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
+**A modern, responsive developer portfolio website – showcasing projects, skills, and professional experience.**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Live Tool](https://img.shields.io/badge/🌐-Try%20the%20Calculator-brightgreen?style=for-the-badge)](https://devgurux.com/our-tools/website-cost-calculator/)
-[![GitHub stars](https://img.shields.io/github/stars/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-?style=social)](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
+[![Live Demo](https://img.shields.io/badge/🌐-View%20Portfolio-brightgreen?style=for-the-badge)](https://devgurux.com)
+[![GitHub stars](https://img.shields.io/github/stars/sharjeel2025/devgurux-portfolio?style=social)](https://github.com/sharjeel2025/devgurux-portfolio)
 
 ---
 
-Get an instant, realistic estimate for your next website project — whether you're a small business owner, a freelancer quoting a client, or a developer planning a build.
+A clean, performance‑focused portfolio built with HTML, CSS, and vanilla JavaScript. Designed to highlight projects, technical skills, and professional journey – fully responsive and optimised for all devices.
 
-![Screenshot of the Website Cost Calculator](https://devgurux.com/wp-content/uploads/2026/02/website-cost-calculator.jpg)
-
----
-
-## The Problem It Solves
-
-For years, I’ve worked with small business owners who walk into a web project with one burning question: *“What is this actually going to cost me?”*
-
-The answers they get are all over the map — anywhere from $500 to $50,000 for what looks like the same thing. Clients get vague quotes, hidden fees appear mid‑project, and no one can explain why the price changed.
-
-I built this calculator to fix that. It turns the messy variables of a website project — type, size, design, features — into a clear, line‑by‑line estimate. No sign‑up. No sales pitch. Just honest numbers based on real‑world development.
+![Screenshot of devgurux portfolio](https://devgurux.com/wp-content/uploads/2026/02/devgurux-portfolio-screenshot.jpg)
 
 ---
 
-## What It Does
+## The Story Behind This Portfolio
 
-| Feature | How It Works |
-|---------|--------------|
-| **Website type** | Choose from Business, eCommerce, Portfolio, or Blog |
-| **Pages** | Select from 1 to 50+ pages |
-| **Design level** | Template, premium template, or fully custom design |
-| **Add‑ons** | Contact forms, blog systems, SEO, booking systems, and more |
-| **Instant total** | Base cost + add‑ons update in real time |
-| **Timeline estimate** | Planning, development, and testing phases |
+I wanted a portfolio that felt **personal, professional, and fast** – one that puts the work front and centre without unnecessary complexity. After experimenting with frameworks like React and Gatsby, I realised that a static, hand‑coded site gave me complete control over performance, accessibility, and design.
 
-Everything runs **client‑side** — pure HTML, CSS, and JavaScript. No backend, no database, no data collection.
+This portfolio is the result. It's lightweight, scores 95+ on Lighthouse, and is built with the same transparency and honesty that defines my work as a developer.
 
 ---
 
-## 🚀 How to Use It
+## What It Showcases
 
-### For Business Owners (Live Tool)
+| Section | What It Contains |
+|---------|------------------|
+| **Hero** | Tagline, call‑to‑action, and a clean introduction |
+| **Projects** | Case studies with live demos, GitHub links, and tech stacks |
+| **Skills** | Categorized technical proficiencies (front‑end, back‑end, tools) |
+| **Experience** | Professional timeline with roles and achievements |
+| **Contact** | Simple, spam‑free contact form (Formspree or similar) |
+| **Blog (optional)** | Articles and tutorials (integrated via WordPress RSS) |
 
-1. Go to the **[live calculator](https://devgurux.com/our-tools/website-cost-calculator/)**
-2. Select your website type and page count
-3. Choose a design level
-4. Add the features you need
-5. See your instant, itemized estimate
+Everything runs **client‑side** – no frameworks, no build tools, no backend.
 
-### For Developers (Local Setup)
+---
+
+## 🚀 How to Use This Portfolio
+
+### For a Live Demo
+Visit the live site at **[devgurux.com](https://devgurux.com)**.
+
+### For Local Development
 
 ```bash
-git clone https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-.git
-cd calculator-to-calculate-a-cost-of-website-to-build-
+git clone https://github.com/sharjeel2025/devgurux-portfolio.git
+cd devgurux-portfolio
 open index.html
 ```
 
-*No server required – just double‑click `index.html` to run it in your browser.*
+*No server required – just double‑click `index.html` to view it locally.*
+
+### Customisation
+
+- Update `index.html` with your own content (projects, skills, bio).
+- Modify `style.css` to match your brand colours and fonts.
+- Adjust `script.js` for any interactive elements (smooth scroll, animations, etc.).
+- Replace the favicon and images in the `assets/` folder.
 
 ---
 
@@ -65,38 +65,45 @@ open index.html
 
 | Technology | Purpose |
 |------------|---------|
-| HTML5, CSS3, Vanilla JavaScript | Core interface & logic |
-| DOM manipulation | Real‑time cost updates |
-| CSS Grid & Flexbox | Responsive layout |
-| Chrome DevTools | Performance optimisation |
+| HTML5, CSS3, Vanilla JavaScript | Core structure, styling, interactivity |
+| CSS Grid & Flexbox | Fully responsive layout |
+| Google Fonts | Typography (Inter, JetBrains Mono) |
+| Font Awesome | Icon set |
+| Lighthouse / PageSpeed | Performance optimisation |
+| Formspree (or similar) | Contact form handling |
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-website-cost-calculator/
-├── index.html          # Main calculator interface
-├── style.css           # Styling and responsive design
-├── script.js           # Core calculation logic
-└── README.md           # Project documentation
+devgurux-portfolio/
+├── index.html          # Main portfolio page
+├── style.css           # All styles
+├── script.js           # JavaScript for interactions
+├── assets/             # Images, icons, logos
+│   ├── favicon.ico
+│   ├── profile.jpg
+│   └── project-screenshots/
+├── LICENSE
+└── README.md
 ```
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+This is a personal portfolio, but if you spot a bug or have a suggestion, feel free to open an issue or a pull request.
 
-- **Report bugs** – Open an [issue](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-/issues) with steps to reproduce.
-- **Suggest features** – Open an issue with a clear description.
-- **Submit code** – Fork the repo, make your changes, and open a pull request.
+- **Report bugs** – Open an [issue](https://github.com/sharjeel2025/devgurux-portfolio/issues).
+- **Suggest improvements** – Open an issue with a clear description.
+- **Submit code** – Fork the repo, make changes, and open a pull request.
 
 **Code style**  
-- Vanilla JavaScript only (no frameworks).  
+- Vanilla JavaScript only.  
 - Use `const` and `let` (no `var`).  
-- Comment complex logic.  
-- Follow the existing code style.
+- Comment non‑obvious sections.  
+- Maintain responsive design.
 
 ---
 
@@ -108,11 +115,11 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🔗 Links
 
-- [🌐 Live Calculator – devgurux.com](https://devgurux.com/our-tools/website-cost-calculator/)
-- [📂 GitHub Repository](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
-- [📝 About the Project](https://devgurux.com/about/)
+- [🌐 Live Portfolio – devgurux.com](https://devgurux.com)
+- [📂 GitHub Repository](https://github.com/sharjeel2025/devgurux-portfolio)
+- [📝 Blog & Articles](https://devgurux.com/blog/)
 
 ---
 
-Built with ❤️ by the [devgurux](https://devgurux.com) team.  
-*Free forever · No sign‑up · No hidden fees*
+Built with ❤️ by [Sharjeel](https://github.com/sharjeel2025).  
+*Clean, fast, and built to impress.*
