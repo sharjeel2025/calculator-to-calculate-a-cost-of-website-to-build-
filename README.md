@@ -130,6 +130,8 @@ Here are articles and case studies I've written about building the Website Cost 
 - [What a 40% Conversion Lift Taught Me About Speed and SEO](https://devandart.hashnode.dev/what-a-40-conversion-lift-actually-taught-me-about-speed-and-seo) – *Hashnode*
 - [Launch on Product Hunt: Website Cost Calculator](https://www.producthunt.com/products/website-cost-calculator) – *Product Hunt*
 
+[Launch on linkdin: Website Cost Calculator](https://www.linkedin.com/pulse/how-get-realistic-website-cost-estimate-without-sales-bin-amir-jnfif)
+
 ---
 
 Built with ❤️ by the [devgurux](https://devgurux.com) team.  
