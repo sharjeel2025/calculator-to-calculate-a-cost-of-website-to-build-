@@ -120,6 +120,16 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - [📂 GitHub Repository](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
 - [📝 About the Project](https://devgurux.com/about/)
 
+- ## 📰 Featured Articles & Press
+
+Here are articles and case studies I've written about building the Website Cost Calculator:
+
+- [How I Built a Website Cost Calculator in 3 Days (No Frameworks)](https://dev.to/sharjeel360/how-i-built-a-website-cost-calculator-in-3-days-no-frameworks-1ia3) – *Dev.to*
+- [The Website Cost Calculator Every Business Owner Needs in 2025](https://medium.com/@SharjeelAmir/the-website-cost-calculator-every-business-owner-needs-in-2025-b21923db873c) – *Medium*
+- [How to Estimate the Real Cost of a Business Website](https://www.articleted.com/article/1160891/399902/How-to-Estimate-the-Real-Cost-of-a-Business-Website) – *Articleted*
+- [What a 40% Conversion Lift Taught Me About Speed and SEO](https://devandart.hashnode.dev/what-a-40-conversion-lift-actually-taught-me-about-speed-and-seo) – *Hashnode*
+- [Launch on Product Hunt: Website Cost Calculator](https://www.producthunt.com/products/website-cost-calculator) – *Product Hunt*
+
 ---
 
 Built with ❤️ by the [devgurux](https://devgurux.com) team.  
