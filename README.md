@@ -43,7 +43,7 @@ Everything runs **client‑side** — pure HTML, CSS, and JavaScript. No backend
 
 ### For Business Owners (Live Tool)
 
-1. Go to the **[live calculator](https://devgurux.com/our-tools/website-cost-calculator/)**
+1. Go to the **[live calculator](https://sharjeel2025.github.io/calculator-to-calculate-a-cost-of-website-to-build/)**
 2. Select your website type and page count
 3. Choose a design level
 4. Add the features you need
